@@ -2,6 +2,12 @@
 	"folders": [
 		{
 			"path": "."
+		},
+		{
+			"path": "../gitrepo1"
+		},
+		{
+			"path": "../gitrepo2"
 		}
 	],
 	"settings": {}
